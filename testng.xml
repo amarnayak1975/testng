@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testngselenium.BaseTest"/>
+      <class name="testngselenium.LoginTest"/>
+      <class name="mytestng.MaxEvenPosTest"/>
+      <class name="testngselenium.LoginMySQLTest"/>
+      <class name="com.amar.AllTest.NewTest"/>
+      <class name="TestNGExamples.NewTest"/>
+      <class name="TestNGExamples.SimpleInterestTest"/>
+      <class name="com.amar.AllTest.AppTest"/>
+      <class name="testngselenium.GoogleSearchTest"/>
+      <class name="testngselenium.DependencyTest"/>
+      <class name="PomTest1.RegistrationTest"/>
+      <class name="testngselenium.LoginCSVTest"/>
+      <class name="testngselenium.LoginExcelTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
